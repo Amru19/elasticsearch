@@ -1,6 +1,6 @@
 FROM maven:3-alpine
 
-LABEL maintainer = "Suhas <suhaz786@gmail.com>"
+LABEL maintainer = "Amru"
 
 VOLUME /var/log
 
