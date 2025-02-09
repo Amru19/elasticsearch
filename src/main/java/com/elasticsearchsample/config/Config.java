@@ -1,7 +1,7 @@
-package com.suhas.config;
+package com.elasticsearchsample.config;
 
 import com.google.gson.Gson;
-import com.suhas.prop.ConfigProps;
+import com.elasticsearchsample.prop.ConfigProps;
 import org.apache.http.HttpHost;
 import org.elasticsearch.client.RestClient;
 import org.elasticsearch.client.RestHighLevelClient;
